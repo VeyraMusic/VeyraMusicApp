@@ -1,0 +1,9 @@
+{
+  "name": "Veyra",
+  "short_name": "Veyra",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090a0c",
+  "theme_color": "#0a0a0c",
+  "icons": [{"src":"/icon.svg","sizes":"any","type":"image/svg+xml"}]
+}
