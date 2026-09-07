@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.vercel/
+.env
+.env.local
+.env.*.local
+src-tauri/target/
+android/.gradle/
+android/build/
+android/app/build/
+*.keystore
+*.jks
