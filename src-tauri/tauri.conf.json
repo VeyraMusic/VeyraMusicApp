@@ -1,0 +1,9 @@
+{
+  "$schema":"https://schema.tauri.app/config/2",
+  "productName":"Veyra",
+  "version":"1.0.0",
+  "identifier":"app.veyra.music",
+  "build":{"frontendDist":"../dist"},
+  "app":{"windows":[{"title":"Veyra","width":1200,"height":800,"minWidth":900,"minHeight":620}]},
+  "bundle":{"active":true,"targets":["nsis","msi"]}
+}
